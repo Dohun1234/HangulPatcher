@@ -58,7 +58,7 @@ const keyMap = new Map([
     ['8', 0x38],
     ['9', 0x39],
 
-    ['Enter', 0x0D],
+    ['Return', 0x0D],
     ['Space', 0x20],
     ['Tab', 0x09],
     ['Backspace', 0x08],
